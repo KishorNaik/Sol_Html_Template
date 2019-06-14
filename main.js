@@ -1,4 +1,4 @@
-/// <reference path='jquery-3.4.1.min.js'/>
+
 
 let movies = [{
     name: "Lord of Rings",
